@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8177
     wikipedia: http://en.wikipedia.org/wiki/Augustus_Robert_Buckland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18661#The-Empire-Annual-for-Girls-1911
 gutenberg_issued: '2006-06-23'
 gutenberg_type: Text
 identifiers:
